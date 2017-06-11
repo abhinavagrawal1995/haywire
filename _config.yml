@@ -33,7 +33,7 @@ paginate: 6
 paginate_path: haywire/page:num/
 
 # Tracker
-analytics: UA-83979019-1
+analytics: UA-52121429-4
 
 # Comments
 disqus-shortname: haywire-1
